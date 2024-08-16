@@ -1,11 +1,11 @@
 {
-  "id": "demo_java_plugin",
+  "id": "richgui",
   "supportedversions": [
     202400199999,
     2024001
   ],
   "weight": 0,
-  "javaplugin": "net.mcreator.demojavaplugin.DemoJavaPlugin",
+  "javaplugin": "net.mcreator.richgui.DemoJavaPlugin",
   "info": {
     "name": "RichGUI",
     "version": "0.0.1",

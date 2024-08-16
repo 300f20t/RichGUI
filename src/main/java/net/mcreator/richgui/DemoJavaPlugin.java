@@ -1,4 +1,4 @@
-package net.mcreator.demojavaplugin;
+package net.mcreator.richgui;
 
 import net.mcreator.plugin.JavaPlugin;
 import net.mcreator.plugin.Plugin;
