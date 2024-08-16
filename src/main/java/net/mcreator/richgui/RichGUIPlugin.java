@@ -11,11 +11,11 @@ import org.apache.logging.log4j.Logger;
 
 import javax.swing.*;
 
-public class DemoJavaPlugin extends JavaPlugin {
+public class RichGUIPlugin extends JavaPlugin {
 
     private static final Logger LOG = LogManager.getLogger("Demo Java Plugin");
 
-    public DemoJavaPlugin(Plugin plugin) {
+    public RichGUIPlugin(Plugin plugin) {
         super(plugin);
 
         addListener(MCreatorLoadedEvent.class, event -> SwingUtilities.invokeLater(() -> {
