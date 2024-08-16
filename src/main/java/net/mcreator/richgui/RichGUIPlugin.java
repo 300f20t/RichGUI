@@ -31,7 +31,7 @@ public class RichGUIPlugin extends JavaPlugin {
             event.getMCreator().getToolBar().addToRightToolbar(demoAction);
         }));
 
-        LOG.info("Demo java plugin was loaded");
+        LOG.info("RichGUI plugin was loaded");
     }
 
 }
